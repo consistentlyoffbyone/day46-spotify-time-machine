@@ -1,9 +1,9 @@
-#Billboard to Spotify Playlist Creator
+<h1>Billboard to Spotify Playlist Creator</h1>
 
 A web scraping program that automatically generates Spotify playlists from Billboard chart data.
 
 
-##Project Overview
+Project Overview
 This project was originally designed to let users input any date and create a Spotify playlist of the top 100 songs from that day's Billboard chart. Unfortunately, Billboard's historical chart data is now paywalled, so I adapted the program to work with currently available data—the top 200 songs of 2025.
 
 ##The Process
